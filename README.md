@@ -1,1 +1,1 @@
-# Newton-Cradle
+# Pendulum
